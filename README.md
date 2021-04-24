@@ -1,3 +1,5 @@
+> fork 一个 亲测 @releases/v2 可用
+
 <p align="center">
   <a href="https://github.com/marketplace/actions/deploy-to-github-pages">
     <img alt="" width="300px" src="https://github.com/JamesIves/github-pages-deploy-action/raw/dev-v4/assets/icon.png">
